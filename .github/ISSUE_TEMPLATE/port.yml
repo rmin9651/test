@@ -1,3 +1,7 @@
+---
+name: ポート／機器設定の日程調整
+description: ポート／機器設定の依頼テンプレート
+labels: [ポート／機器設定依頼]
 body:
 - type: checkboxes
   id: cat-preferences
